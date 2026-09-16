@@ -24,7 +24,7 @@ durante a execução de uma funcionalidade do sistema.
 Representação da comunicação e das mensagens trocadas
 entre os objetos do sistema.
 
-![Diagrama de Comunicação](diagramas/diagrama-comunicacao.jpég)
+![Diagrama de Comunicação](diagramas/diagrama-comunicacao.jpeg)
 
 ## Conceitos utilizados
 
