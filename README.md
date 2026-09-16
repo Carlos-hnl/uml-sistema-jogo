@@ -10,21 +10,21 @@ com foco na análise e modelagem de um sistema utilizando UML.
 Representação da estrutura do sistema, incluindo classes,
 atributos, métodos e relacionamentos.
 
-![Diagrama de Classes](diagramas/diagrama-classes.png)
+![Diagrama de Classes](diagramas/diagrama-classes.jpeg)
 
 ### Diagrama de Sequência
 
 Representação da sequência de interações entre os objetos
 durante a execução de uma funcionalidade do sistema.
 
-![Diagrama de Sequência](diagramas/diagrama-sequencia.png)
+![Diagrama de Sequência](diagramas/diagrama-sequencia.jpeg)
 
 ### Diagrama de Comunicação
 
 Representação da comunicação e das mensagens trocadas
 entre os objetos do sistema.
 
-![Diagrama de Comunicação](diagramas/diagrama-comunicacao.png)
+![Diagrama de Comunicação](diagramas/diagrama-comunicacao.jpég)
 
 ## Conceitos utilizados
 
